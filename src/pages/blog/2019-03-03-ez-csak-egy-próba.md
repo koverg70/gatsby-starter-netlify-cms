@@ -10,7 +10,7 @@ description: Itt egy rövid alcím
 
 > ASg g sdfg sdkfg jsdf gjsdfg sdf gdfg
 >
->
+> ![Botond fényképe](/img/46414532_198340537717706_335531168810139648_n.jpg "A végzős diák")
 >
 > ```
 > Ez egy kis programkód itten kérem.
